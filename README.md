@@ -39,5 +39,6 @@ If there are multiple Titas in the local area network, please manually select th
 
 <img src="https://github.com/user-attachments/assets/1e2908b8-67f1-4c5f-b316-b39529141653" width="400" />
 
+<img src="https://github.com/user-attachments/assets/55a19d6f-1d12-48c6-a081-37a14aeff1fc" width="400" />
 
 
