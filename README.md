@@ -55,7 +55,7 @@ Bluetooth currently supports enabling follow mode: QR code follow, gesture follo
 
 
 #### Virtual Joystick User Manual
-This feature requires VIP authorization to log in and use.
+This feature requires VIP authorization to log in and use.Through this method, you will be able to remotely control Titan from thousands of miles away.
 
 
 <img src="https://github.com/user-attachments/assets/205a12e2-1715-4339-8ba7-93832e73ca53" width="400" />
@@ -73,7 +73,7 @@ This also supports enabling follow mode: QR code follow, gesture follow. Please 
 
 
 #### USB Joystick User Manual
-This feature requires VIP authorization to log in and use.
+This feature requires VIP authorization to log in and use.Through this method, you will be able to remotely control Titan from thousands of miles away.
 
 
 <img src="https://github.com/user-attachments/assets/dfcc2ebf-b961-4a7e-ab94-e5a3c30a182f" width="400" />
