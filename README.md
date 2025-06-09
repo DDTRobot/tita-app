@@ -68,6 +68,9 @@ This also supports enabling follow mode: QR code follow, gesture follow. Please 
 
 
 
+
+
+
 #### USB Joystick User Manual
 This feature requires VIP authorization to log in and use.
 
