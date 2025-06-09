@@ -34,5 +34,7 @@ Restart Tita, it will enter Bluetooth pairing mode within 30 seconds of startup.
 <img src="https://github.com/user-attachments/assets/384c828d-c473-4548-a288-fa7a637deeab" width="400" />
 <img src="https://github.com/user-attachments/assets/fc899c43-7a24-418d-b275-9a2aea5a981a" width="400" />
 
+If your Android device is on the same LAN as Tita, Tita will be scanned. If it is not scanned, please repeat the operation and rescan.
+If there are multiple Titas in the local area network, please manually select them
 
 
