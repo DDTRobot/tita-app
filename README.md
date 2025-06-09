@@ -21,4 +21,4 @@ If you have not activated VIP and can only use offline mode, please skip login a
 please contact wuyunzhou@directdrivetech.com And provide your account password for VIP authorization,then you can log in with VIP account password.
 ### (5) APK Function Introduction
 APK features include USB joystick, virtual joystick, and Bluetooth joystick，Offline mode can only use Bluetooth joystick.
-        Bluetooth Joystick User Manual：
+#### Bluetooth Joystick User Manual：
