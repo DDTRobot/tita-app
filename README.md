@@ -46,13 +46,14 @@ If there are multiple Titas in the local area network, please manually select th
 <img src="https://github.com/user-attachments/assets/55a19d6f-1d12-48c6-a081-37a14aeff1fc" width="400" />
 
 
-Bluetooth currently supports enabling follow mode: QR code follow, gesture follow. Please note that the follow function needs to be turned off for image transfer.
+Bluetooth currently supports enabling follow mode: QR code follow, gesture follow. Please note that only one of the following three functions can be opened at a time.
 
 
 
 
 
-<img src="https://github.com/user-attachments/assets/eb8f566b-2443-4a2d-9e70-be0f14d3e7c0" width="400" />
+<img src="https://github.com/user-attachments/assets/35515782-89c3-44a0-9c6e-6c0b743fa8f0" width="400" />
+
 
 
 
