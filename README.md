@@ -84,10 +84,10 @@ and image transmission and reception can be achieved on the Android device.
 
 
 
-Select USB device
+Select USB device,and view Image
 <img src="https://github.com/user-attachments/assets/062ec300-baa0-4981-8765-650bc5a1511f" width="400" />
 
-<img src="https://github.com/user-attachments/assets/dfcc2ebf-b961-4a7e-ab94-e5a3c30a182f" width="400" />
+<img src="https://github.com/user-attachments/assets/eded5361-07ae-485e-b8f5-61bc1ba82754" width="400" />
 
 
 
