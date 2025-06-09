@@ -16,6 +16,7 @@ This is a demonstration：
 }
 ### (3) Install APK on your Android device：
 Please click on the following link to download
+https://github.com/wyz-git/tita-app/raw/main/tita-app.apk
 ### (4) APK login
 If you have not activated VIP and can only use offline mode, please skip login and select "跳过"，
 please contact wuyunzhou@directdrivetech.com And provide your account password for VIP authorization,then you can log in with VIP account password.
