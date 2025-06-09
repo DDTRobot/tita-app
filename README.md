@@ -70,7 +70,8 @@ you will be able to remotely control Tita from thousands of miles away.
 <img src="https://github.com/user-attachments/assets/40e4b58e-2a01-4847-8281-b380238c96f1" width="400" />
 
 
-This also supports enabling follow mode: QR code follow, gesture follow. Please note that the follow function needs to be turned off for image transfer.
+This also supports enabling follow mode: QR code follow, gesture follow. Please note that only one of the following three functions can be opened at a time.
+
 
 
 
@@ -100,7 +101,7 @@ and image transmission and reception can be achieved on the Android device.
 
 Select USB device,and view Image
 
-This also supports enabling follow mode: QR code follow, gesture follow. Please note that the follow function needs to be turned off for image transfer.
+This also supports enabling follow mode: QR code follow, gesture follow. Please note that only one of the following three functions can be opened at a time.
 
 
 
