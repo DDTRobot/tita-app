@@ -50,3 +50,8 @@ Bluetooth currently supports enabling follow mode: QR code follow, gesture follo
 
 <img src="https://github.com/user-attachments/assets/eb8f566b-2443-4a2d-9e70-be0f14d3e7c0" width="400" />
 
+#### Virtual Joystick User Manual
+<img src="https://github.com/user-attachments/assets/205a12e2-1715-4339-8ba7-93832e73ca53" width="400" />
+<img src="https://github.com/user-attachments/assets/f2f08b1e-4f61-419c-ba89-c0a1bee1c5e6" width="400" />
+
+
