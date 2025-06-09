@@ -8,7 +8,7 @@ This is the official release package for the tita app
 If there are no errors, it is considered successful
 ### (2) Set app account password:
     sudo vi /usr/tita-app/config.json
-Set ros2 namespace as account, such as titan3037211. Please enter the "ros2 topic list" to query. Set the password yourself and save it for future login use.
+Set ros2 namespace as account, such as tita3037211. Please enter the "ros2 topic list" to query. Set the password yourself and save it for future login use.
 This is a demonstration：
 {
     "mqtt_username": "tita3037211",
@@ -16,9 +16,13 @@ This is a demonstration：
 }
 ### (3) Install APK on your Android device：
 Please click on the following link to download
+https://github.com/wyz-git/tita-app/raw/main/tita-app.apk
 ### (4) APK login
 If you have not activated VIP and can only use offline mode, please skip login and select "跳过"，
 please contact wuyunzhou@directdrivetech.com And provide your account password for VIP authorization,then you can log in with VIP account password.
+
+<img src="https://github.com/user-attachments/assets/39e30cfa-4601-4ff2-81a6-bd3700af9693" width="400" />
+
 ### (5) APK Function Introduction
 APK features include USB joystick, virtual joystick, and Bluetooth joystick，Offline mode can only use Bluetooth joystick.
 #### Bluetooth Joystick User Manual
@@ -42,19 +46,21 @@ If there are multiple Titas in the local area network, please manually select th
 <img src="https://github.com/user-attachments/assets/55a19d6f-1d12-48c6-a081-37a14aeff1fc" width="400" />
 
 
-Bluetooth currently supports enabling follow mode: QR code follow, gesture follow. Please note that the follow function needs to be turned off for image transfer.
+Bluetooth currently supports enabling follow mode: QR code follow, gesture follow. Please note that only one of the following three functions can be opened at a time.
 
 
 
 
 
-<img src="https://github.com/user-attachments/assets/eb8f566b-2443-4a2d-9e70-be0f14d3e7c0" width="400" />
+<img src="https://github.com/user-attachments/assets/35515782-89c3-44a0-9c6e-6c0b743fa8f0" width="400" />
+
 
 
 
 
 #### Virtual Joystick User Manual
-This feature requires VIP authorization to log in and use.
+This feature requires VIP authorization to log in and use.Through this method, 
+you will be able to remotely control Tita from thousands of miles away.
 
 
 <img src="https://github.com/user-attachments/assets/205a12e2-1715-4339-8ba7-93832e73ca53" width="400" />
@@ -64,7 +70,8 @@ This feature requires VIP authorization to log in and use.
 <img src="https://github.com/user-attachments/assets/40e4b58e-2a01-4847-8281-b380238c96f1" width="400" />
 
 
-This also supports enabling follow mode: QR code follow, gesture follow. Please note that the follow function needs to be turned off for image transfer.
+This also supports enabling follow mode: QR code follow, gesture follow. Please note that only one of the following three functions can be opened at a time.
+
 
 
 
@@ -72,7 +79,8 @@ This also supports enabling follow mode: QR code follow, gesture follow. Please 
 
 
 #### USB Joystick User Manual
-This feature requires VIP authorization to log in and use.
+This feature requires VIP authorization to log in and use.Through this method,
+you will be able to remotely control Tita from thousands of miles away.
 
 
 <img src="https://github.com/user-attachments/assets/dfcc2ebf-b961-4a7e-ab94-e5a3c30a182f" width="400" />
@@ -93,13 +101,14 @@ and image transmission and reception can be achieved on the Android device.
 
 Select USB device,and view Image
 
-This also supports enabling follow mode: QR code follow, gesture follow. Please note that the follow function needs to be turned off for image transfer.
+This also supports enabling follow mode: QR code follow, gesture follow. Please note that only one of the following three functions can be opened at a time.
 
 
 
 ### (6) Customer LAN image transmission development interface
         ffmpeg -re -i /dev/video2        -c:v libx264 -profile:v baseline -preset ultrafast -tune zerolatency        -pix_fmt yuv420p -g 30        -rtsp_transport tcp -f rtsp rtsp://192.168.100.197:8554/test
 Deb has integrated SRT and WebRTC ultra-low latency image transmission to local servers（Delay as low as 100ms at 60 frames per second）. Refer to the above instructions to push the stream.(Change 192.168.100.197 to your LAN IP address,and change your video dev)
+For more parameters, please refer to the official ffmpeg tutorial.
 
 ![屏幕截图 2025-06-09 144016](https://github.com/user-attachments/assets/0dca1307-f9ef-476a-abeb-f2a1a6457036)
 ![屏幕截图 2025-06-09 142135](https://github.com/user-attachments/assets/b642e219-719c-46a7-84ec-531d092e8fa4)
