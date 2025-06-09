@@ -25,6 +25,6 @@ APK features include USB joystick, virtual joystick, and Bluetooth joystick，Of
 Restart Tita, it will enter Bluetooth pairing mode within 30 seconds of startup. Please complete Bluetooth pairing within 30 seconds.
 
 <img src="https://github.com/user-attachments/assets/eebbe82c-5961-4f8a-b2d8-24ed1a350aac" width="300" />
-<img src="https://github.com/user-attachments/assets/1573cc04-ac11-4967-aa17-710eba5f095a" width="300"
+<img src="https://github.com/user-attachments/assets/1573cc04-ac11-4967-aa17-710eba5f095a" width="300" />
 
 
