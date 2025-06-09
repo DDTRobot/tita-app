@@ -20,6 +20,9 @@ https://github.com/wyz-git/tita-app/raw/main/tita-app.apk
 ### (4) APK login
 If you have not activated VIP and can only use offline mode, please skip login and select "跳过"，
 please contact wuyunzhou@directdrivetech.com And provide your account password for VIP authorization,then you can log in with VIP account password.
+
+![Uploading Screenshot_20250609_164719_TITA_Control[1].jpg…]()
+
 ### (5) APK Function Introduction
 APK features include USB joystick, virtual joystick, and Bluetooth joystick，Offline mode can only use Bluetooth joystick.
 #### Bluetooth Joystick User Manual
