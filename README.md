@@ -93,7 +93,14 @@ and image transmission and reception can be achieved on the Android device.
 
 Select USB device,and view Image
 
-
-
-
 This also supports enabling follow mode: QR code follow, gesture follow. Please note that the follow function needs to be turned off for image transfer.
+
+
+
+### (5) Customer LAN image transmission development interface
+        ffmpeg -re -i /dev/video2        -c:v libx264 -profile:v baseline -preset ultrafast -tune zerolatency        -pix_fmt yuv420p -g 30        -rtsp_transport tcp -f rtsp rtsp://192.168.100.197:8554/test
+Deb has integrated SRT and WebRTC ultra-low latency image transmission to local servers. Refer to the above instructions to push the stream，Change 192.168.100.197 to your LAN IP address
+![屏幕截图 2025-06-09 144016](https://github.com/user-attachments/assets/0dca1307-f9ef-476a-abeb-f2a1a6457036)
+
+
+
