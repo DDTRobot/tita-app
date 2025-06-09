@@ -64,6 +64,6 @@ This feature requires VIP authorization to log in and use.
 <img src="https://github.com/user-attachments/assets/40e4b58e-2a01-4847-8281-b380238c96f1" width="400" />
 
 
-
+This also supports enabling follow mode: QR code follow, gesture follow. Please note that the follow function needs to be turned off for image transfer.
 
 
