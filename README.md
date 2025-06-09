@@ -106,6 +106,7 @@ This also supports enabling follow mode: QR code follow, gesture follow. Please 
 ### (6) Customer LAN image transmission development interface
         ffmpeg -re -i /dev/video2        -c:v libx264 -profile:v baseline -preset ultrafast -tune zerolatency        -pix_fmt yuv420p -g 30        -rtsp_transport tcp -f rtsp rtsp://192.168.100.197:8554/test
 Deb has integrated SRT and WebRTC ultra-low latency image transmission to local servers（Delay as low as 100ms at 60 frames per second）. Refer to the above instructions to push the stream.(Change 192.168.100.197 to your LAN IP address,and change your video dev)
+For more parameters, please refer to the official ffmpeg tutorial.
 
 ![屏幕截图 2025-06-09 144016](https://github.com/user-attachments/assets/0dca1307-f9ef-476a-abeb-f2a1a6457036)
 ![屏幕截图 2025-06-09 142135](https://github.com/user-attachments/assets/b642e219-719c-46a7-84ec-531d092e8fa4)
