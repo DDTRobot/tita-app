@@ -8,7 +8,7 @@ This is the official release package for the tita app
 If there are no errors, it is considered successful
 ### (2) Set app account password:
     sudo vi /usr/tita-app/config.json
-Set the account password for the ros2 namespace, such as titan3037211. Please enter the "ros2 topic list" to query. Set the password yourself and save it for future login use.
+Set ros2 namespace as account, such as titan3037211. Please enter the "ros2 topic list" to query. Set the password yourself and save it for future login use.
 This is a demonstration：
 {
     "mqtt_username": "tita3037211",
@@ -21,4 +21,4 @@ If you have not activated VIP and can only use offline mode, please skip login a
 please contact wuyunzhou@directdrivetech.com And provide your account password for VIP authorization,then you can log in with VIP account password.
 ### (5) APK Function Introduction
 APK features include USB joystick, virtual joystick, and Bluetooth joystick，Offline mode can only use Bluetooth joystick.
-    Bluetooth Joystick User Manual：
+        Bluetooth Joystick User Manual：
