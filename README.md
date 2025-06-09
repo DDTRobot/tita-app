@@ -112,5 +112,12 @@ Browser WebRTC Streaming Test：
 ![image](https://github.com/user-attachments/assets/9a61825d-915a-4fed-8bad-a556a4d0f57b)
 
 
+To our incredible clients: ​​Thank you for growing with us.​​ You didn’t just use our product; you helped shape it. When we were a fledgling solution with ambitious dreams, you chose to believe. Your feedback became our blueprint, your challenges our compass, and your trust our foundation.
+﻿
+We often call early versions a ‘minimum viable product,’ but to us, it felt like sending a child into the world. And you—our pioneering partners—​​nurtured it as your own​​. You patiently endured bugs, advocated for features, and celebrated every upgrade. Your partnership transformed our ‘baby’ into what it is today: stronger, smarter, and more resilient.
+﻿
+Thank you for being more than clients. Thank you for being believers, collaborators, and the reason we strive for excellence.If you have any questions, please contact wuyunzhou@directdrivetech.com
+
+
 
 
