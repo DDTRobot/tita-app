@@ -8,7 +8,8 @@ This is the official release package for the tita app
 If there are no errors, it is considered successful
 ### (2) Install deb:
     sudo vi /usr/tita-app/config.json
-Set the account password for the ros2 namespace, such as titan3037211. Please enter the ros2 topic list to query. Set the password yourself and save it for future login use
+Set the account password for the ros2 namespace, such as titan3037211. Please enter the ros2 topic list to query. Set the password yourself and save it for future login use.
+This is a demonstration：
 {
     "mqtt_username": "tita3037211",
     "mqtt_password": "12345678"
