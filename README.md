@@ -1,4 +1,4 @@
-# tita-app
+# tita-app（V1.0.0）
 This is the official release package for the tita app
 
 ## Instructions:
