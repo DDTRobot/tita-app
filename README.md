@@ -30,5 +30,6 @@ Restart Tita, it will enter Bluetooth pairing mode within 30 seconds of startup.
 <img src="https://github.com/user-attachments/assets/23b11757-ed28-4b14-bafc-38b50418a9a3" width="400" />
 <img src="https://github.com/user-attachments/assets/6e236953-625a-4101-ae36-cc52e8837148" width="400" />
 <img src="https://github.com/user-attachments/assets/d85cad87-4f3f-4784-aaee-22a6c20af0ff" width="400" />
+<img src="https://github.com/user-attachments/assets/27cfc651-f41d-446b-9107-22c3cca3d56e" width="400" />
 
 
