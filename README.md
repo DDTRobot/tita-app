@@ -71,14 +71,13 @@ This also supports enabling follow mode: QR code follow, gesture follow. Please 
 #### USB Joystick User Manual
 This feature requires VIP authorization to log in and use.
 
-This feature requires the purchase of our USB accessory, as shown in the picture. 
-By connecting the USB accessory to an Android device, it can be controlled with a remote control
-and image transmission and reception can be achieved on the Android device，
-
-
 
 <img src="https://github.com/user-attachments/assets/dfcc2ebf-b961-4a7e-ab94-e5a3c30a182f" width="400" />
 
+
+This feature requires the purchase of our USB accessory, as shown in the picture. 
+By connecting the USB accessory to an Android device, it can be controlled with a remote control
+and image transmission and reception can be achieved on the Android device.
 
 <img src="https://github.com/user-attachments/assets/58888cad-bc9a-49f2-99db-ae8f6f30dfc5" width="400" />
 <img src="https://github.com/user-attachments/assets/197418f1-a39e-4ce0-a01e-1686a6c8aa3c" width="400" />
