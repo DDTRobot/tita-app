@@ -22,3 +22,8 @@ please contact wuyunzhou@directdrivetech.com And provide your account password f
 ### (5) APK Function Introduction
 APK features include USB joystick, virtual joystick, and Bluetooth joystick，Offline mode can only use Bluetooth joystick.
 #### Bluetooth Joystick User Manual：
+Restart Tita, it will enter Bluetooth pairing mode within 30 seconds of startup.Please complete Bluetooth pairing within 30 seconds
+![Screenshot_20250609_114111_Settings](https://github.com/user-attachments/assets/eebbe82c-5961-4f8a-b2d8-24ed1a350aac)
+![Screenshot_20250609_114139_Settings](https://github.com/user-attachments/assets/1573cc04-ac11-4967-aa17-710eba5f095a)
+
+
