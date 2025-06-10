@@ -73,7 +73,7 @@ you will be able to remotely control Tita from thousands of miles away.
 This also supports enabling follow mode: QR code follow, gesture follow. Please note that only one of the following three functions can be opened at a time.
 
 
-
+<img src="https://github.com/user-attachments/assets/35515782-89c3-44a0-9c6e-6c0b743fa8f0" width="400" />
 
 
 
@@ -103,7 +103,7 @@ Select USB device,and view Image
 
 This also supports enabling follow mode: QR code follow, gesture follow. Please note that only one of the following three functions can be opened at a time.
 
-
+<img src="https://github.com/user-attachments/assets/35515782-89c3-44a0-9c6e-6c0b743fa8f0" width="400" />
 
 ### (6) Customer LAN image transmission development interface
         ffmpeg -re -i /dev/video2        -c:v libx264 -profile:v baseline -preset ultrafast -tune zerolatency        -pix_fmt yuv420p -g 30        -rtsp_transport tcp -f rtsp rtsp://192.168.100.197:8554/test
