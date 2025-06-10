@@ -1,10 +1,16 @@
 # tita-app（V1.0.1）
-This is the official release package for the tita app
+This is the official release package for the tita app, based on Android.
 
 ## Instructions:
 
 ### (1) Install deb on Tita:
+```bash
+    #In TITA:
+    git clone https://github.com/DirectDriveTech-DDT/tita-app.git
+    cd tita-app
     sudo dpkg -i tita-app.deb
+```
+
 If there are no errors, it is considered successful
 ### (2) Set app account password:
     sudo vi /usr/tita-app/config.json
@@ -16,7 +22,9 @@ This is a demonstration：
 }
 ### (3) Install APK on your Android device：
 Please click on the following link to download
-https://github.com/wyz-git/tita-app/raw/main/tita-app.apk
+
+[Download the app](https://github.com/DirectDriveTech-DDT/tita-app/blob/main/tita-app.apk)
+
 ### (4) APK login
 If you have not activated VIP and can only use offline mode, please skip login and select "跳过"，
 please contact wuyunzhou@directdrivetech.com And provide your account password for VIP authorization,then you can log in with VIP account password.
