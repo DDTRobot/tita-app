@@ -23,7 +23,8 @@ This is a demonstration：
 ### (3) Install APK on your Android device：
 Please click on the following link to download
 
-[Download the app](https://github.com/DirectDriveTech-DDT/tita-app/blob/main/tita-app.apk)
+[[Download the app](https://github.com/DirectDriveTech-DDT/tita-app/blob/main/tita-app.apk)
+](https://github.com/DDTRobot/tita-app/blob/main/tita-app.apk)
 
 ### (4) APK login
 If you have not activated VIP and can only use offline mode, please skip login and select "跳过"，
