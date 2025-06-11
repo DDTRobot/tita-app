@@ -26,8 +26,7 @@ Please click on the following link to download
 [Download the app](https://github.com/DDTRobot/tita-app/blob/main/tita-app.apk)
 
 ### (4) APK login
-If you have not activated VIP and can only use offline mode, please skip login and select "跳过"，
-please contact wuyunzhou@directdrivetech.com And provide your account password for VIP authorization,then you can log in with VIP account password.
+For users, please select "跳过" to skip the login phase. For developers, please contact our FAE to obtain authorizations.
 
 <img src="https://github.com/user-attachments/assets/39e30cfa-4601-4ff2-81a6-bd3700af9693" width="400" />
 
