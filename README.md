@@ -6,7 +6,7 @@ This is the official release package for the tita app, based on Android.
 ### (1) Install deb on Tita:
 ```bash
     #In TITA:
-    git clone https://github.com/DirectDriveTech-DDT/tita-app.git
+    git clone https://github.com/DDTRobot/tita-app.git
     cd tita-app
     sudo dpkg -i tita-app.deb
 ```
