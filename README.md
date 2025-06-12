@@ -1,5 +1,5 @@
 # tita-app（V1.0.2）
-This is the official release package for the tita app, based on Android.
+This is the a beta version of  release package for the tita app, based on Android.
 
 ## Instructions:
 
